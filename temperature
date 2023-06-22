@@ -1,0 +1,11 @@
+I set out to build a simple temperature converter in Python to get accustomed with the language.
+
+It works as intedned giving accurate conversions from Farhenhite to Celsius and vica versa.
+
+Although there are some features I want to add soon.
+Like stopping the program when the user inputs anything oteher than a number into the prompt whcih I have'nt been able to do yet.
+
+I might upload this to github just to get the hang of things with git and whatnot.
+
+I'll come back to polish this project soon.
+
